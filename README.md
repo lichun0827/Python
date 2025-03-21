@@ -35,7 +35,7 @@ PyCharm 是一個整合開發環境（IDE），用來撰寫和執行 Python 程�
     在創建專案時，會看到一個選項為「Create a main.py welcome script」，問是否要建立一個<strong>main.py</strong>檔案。這時的選擇取決於專案的複雜程度：
 </p>
 
-![image](B1Bl_8Wwyx[1].png=50%25x)
+![image](https://github.com/lichun0827/Python/blob/main/B1Bl_8Wwyx%5B1%5D.png%3D50%2525x)
 
 <p style="text-align: justify;">
     藍色部分為<strong>專案名稱</strong>，圖中有一個「Create a main.py welcome script」選項，問是否要建立一個<strong>main.py</strong>檔案。如果你不建立 `main.py` 檔案，對於簡單的專案來說，可能不會有太大影響，但如果專案逐漸變得複雜，擁有一個 `main.py` 檔案會讓程式結構更清晰且易於管理。`main.py` 通常是專案的進入點，負責啟動程式，並且可以統一處理一些設定和流程邏輯。<br><br>
