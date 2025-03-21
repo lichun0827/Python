@@ -69,7 +69,7 @@ PyCharm 是一個整合開發環境（IDE），用來撰寫和執行 Python 程�
     </ol>
     當結果運算出現「Hello Python!」，就完成第一支程式碼了。</p>
 
-![image](https://hackmd.io/_uploads/SkV3OwWPJg.png)
+![image](SkV3OwWPJg[1].png)
 
 ## 3-1. 變數和資料型別
 變數是一個可重複使用的容器，用於儲存值。當我們在創建一個變數實，我們需要給他一個名稱，來表示所包含的內容
