@@ -26,7 +26,7 @@ PyCharm 是一個整合開發環境（IDE），用來撰寫和執行 Python 程�
 4. 其餘步驟使用預設設定安裝。
 </div>
 
-![1](https://hackmd.io/_uploads/Hyjs8L-Dyg.png=50%x)
+![1](https://github.com/lichun0827/Python/blob/main/rkz7OLZDJx%5B1%5D.png%3D50%2525x)
 
 
 # 3. 撰寫程式
