@@ -51,7 +51,7 @@ PyCharm 是一個整合開發環境（IDE），用來撰寫和執行 Python 程�
     接下來按<strong>創建(Creat)</strong>。
 </p>
 
-![image](https://hackmd.io/_uploads/rkz7OLZDJx.png=50%x)
+![image](https://github.com/lichun0827/Python/blob/main/rkz7OLZDJx%5B1%5D.png%3D50%2525x)
 
 <p style="text-align: justify;">
     接下來就可以建立新檔案撰寫第一支程式。右鍵目錄區剛設定的專案目錄，有兩種方式可創建python檔:
